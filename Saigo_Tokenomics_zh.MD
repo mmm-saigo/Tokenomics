@@ -1,6 +1,6 @@
 # SAIGO 代币经济学文档
 
-[Switch to English Version](https://github.com/mmm-saigo/Tokenomics/blob/main/Saigo_Tokenomics_en.MD)
+[Switch to English Version](https://raw.githubusercontent.com/mmm-saigo/Tokenomics/refs/heads/main/Saigo_Tokenomics_en.md)
 
 
 ## 一、引言

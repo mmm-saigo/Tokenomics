@@ -1,5 +1,8 @@
 # SAIGO 代币经济学文档
 
+[Switch to English Version](https://github.com/mmm-saigo/Tokenomics/blob/main/Saigo_Tokenomics_en.MD)
+
+
 ## 一、引言
 
 随着区块链链上 DEX 及发射台的快速发展，公平发射的代币分发模式逐渐被市场加热。提供链上交易机会发掘和分析的交易工具成为了加密领域的热门赛道。无论是龙头 GMGN.AI、AVE.AI、DEXX 及各种 WEB3 钱包，还是不断涌现的 Telegram Bot 项目，都在激烈争夺这一市场的份额。然而，Telegram Bot 项目的分散化和安全性问题，无疑为用户带来了较高的选择成本和潜在风险。

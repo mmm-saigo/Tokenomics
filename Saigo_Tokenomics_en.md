@@ -1,4 +1,5 @@
 # SAIGO Token Economics Document
+[切换到中文版本](https://github.com/mmm-saigo/Tokenomics/blob/main/Saigo_Tokenomics_zh.MD)
 
 ## I. Introduction
 
